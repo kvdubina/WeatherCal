@@ -1,0 +1,8 @@
+{
+  "calendar_name": "🌤 Погода",
+  "city": "Челябинск",
+  "latitude": 55.1644,
+  "longitude": 61.4368,
+  "forecast_days": 10,
+  "hourly_step": 3
+}
